@@ -8,7 +8,7 @@ The goal of PyEngine is to make 2D game development and organization in Python a
 
 ## Dependencies 
 - Python
-- PyGame
+- [PyGame](https://www.pygame.org)
 
 ## Using PyEngine
 To use PyEngine, add a copy of PyEngine.py to the folder that will house your game project. Please make sure that you have PyGame installed, as that is what this engine is centered around. To make sure PyEngine is working, you can run "python3 pyengine.py" to view the sample bouncing DVD screen.
